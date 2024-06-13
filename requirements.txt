@@ -2,4 +2,5 @@ mealpy>=3.0.1
 opensmile>=2.5.0
 scikit-learn>=1.0.2
 matplotlib>=3.8.4
+shap>=0.44.1
 imblearn
