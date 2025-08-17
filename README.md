@@ -2,7 +2,7 @@
 
 This repository is intended to provide a collection of the files related to the paper titled: 
 
-"MEXASER: Metaheuristics and Explainable AI for Speech Emotion Recognition".
+"MEXASER: Metaheuristics and Explainable AI for Speech Emotion Recognition" which is currently under review & "Interpretable Feature Optimization for Sadness Recognition in Speech Emotion Analysis" which was published and presented at IEEE IS 2024.
 
 ### About the Project
 
